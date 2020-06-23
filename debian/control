@@ -1,0 +1,12 @@
+Source: ros-foxy-turtlebot3-msgs
+Section: misc
+Priority: optional
+Maintainer: Will Son <willson@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-action-msgs, ros-foxy-ament-cmake, ros-foxy-ament-lint-common, ros-foxy-builtin-interfaces, ros-foxy-rosidl-default-generators, ros-foxy-std-msgs, ros-foxy-ros-workspace, ros-foxy-rosidl-typesupport-connext-c, ros-foxy-rosidl-typesupport-connext-cpp, ros-foxy-rosidl-typesupport-fastrtps-c, ros-foxy-rosidl-typesupport-fastrtps-cpp
+Homepage: http://wiki.ros.org/turtlebot3_msgs
+Standards-Version: 3.9.2
+
+Package: ros-foxy-turtlebot3-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-action-msgs, ros-foxy-builtin-interfaces, ros-foxy-rosidl-default-runtime, ros-foxy-std-msgs, ros-foxy-ros-workspace
+Description: Message and service types: custom messages and services for TurtleBot3 packages for ROS2
