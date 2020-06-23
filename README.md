@@ -1,3 +1,26 @@
+## turtlebot3_msgs (dashing) - 2.2.1-2
+
+The packages in the `turtlebot3_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing turtlebot3_msgs` on `Tue, 23 Jun 2020 08:22:41 -0000`
+
+The `turtlebot3_msgs` package was released.
+
+Version of package(s) in repository `turtlebot3_msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+- release repository: https://github.com/robotis-ros2-release/turtlebot3_msgs-release.git
+- rosdistro version: `2.2.0-1`
+- old version: `2.2.1-1`
+- new version: `2.2.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot3_msgs (eloquent) - 2.2.1-2
 
 The packages in the `turtlebot3_msgs` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --rosdistro eloquent --track eloquent turtlebot3_msgs --edit` on `Tue, 23 Jun 2020 08:05:48 -0000`
