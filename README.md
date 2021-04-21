@@ -1,3 +1,26 @@
+## turtlebot3_msgs (rolling) - 2.2.1-1
+
+The packages in the `turtlebot3_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release turtlebot3_msgs -t rolling -r rolling --edit` on `Wed, 21 Apr 2021 07:49:42 -0000`
+
+The `turtlebot3_msgs` package was released.
+
+Version of package(s) in repository `turtlebot3_msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.6`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot3_msgs (dashing) - 2.2.1-2
 
 The packages in the `turtlebot3_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing turtlebot3_msgs` on `Tue, 23 Jun 2020 08:22:41 -0000`
