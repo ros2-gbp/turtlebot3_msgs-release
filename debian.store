@@ -1,1 +1,1 @@
-{"base": "6b30ebc", "parent": "debian/rolling/turtlebot3_msgs", "previous": "ede850e", "trim": "", "trimbase": ""}
+{"base": "79e9b98", "parent": "debian/humble/turtlebot3_msgs", "previous": "c0b5a23", "trim": "", "trimbase": ""}
