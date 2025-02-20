@@ -2,6 +2,21 @@
 Changelog for package turtlebot3_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.0 (2025-02-19)
+------------------
+* Updated Patrol.action to support updated patrol example
+* Contributors: Junyeong Jeong
+
+2.2.3 (2022-05-26)
+------------------
+* ROS 2 Humble Hawksbill supported
+* Contributors: Will Son
+
+2.2.2 (2021-06-14)
+------------------
+* ROS 2 Galactic Geochelone supported
+* Contributors: Will Son
+
 2.2.1 (2020-06-18)
 ------------------
 * ROS 2 Eloquent Elusor supported
